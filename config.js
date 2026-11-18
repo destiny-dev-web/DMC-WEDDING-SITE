@@ -1,1 +1,1 @@
-window.DMC_API='https://YOUR-RAILWAY-DOMAIN.up.railway.app';
+window.DMC_API='https://dmc-wedding-admin-production.up.railway.app';
